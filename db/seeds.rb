@@ -12,3 +12,6 @@ User.create(username: "Arun_3", password: "password_3")
 User.create(username: "Arun_4", password: "password_4")
 User.create(username: "Arun_5", password: "password_5")
 User.create(username: "Arun_6", password: "password_6")
+
+Message.create(body: "Hello from Arun_1", user_id:1)
+Message.create(body: "hellllllloooo from Arun_2", user_id:2)
